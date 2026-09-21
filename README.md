@@ -25,7 +25,17 @@ The information provided are based on the modules that I have taken.
 ## More Information about each module
 ### CSCI203 Algorithms and Data Structures
 <p>
-  Insert here
+  <ul>
+    <li>Assignments contribute to <b>40%</b> of the grade.</li>
+    <ul>
+      <li>Assignment 1 (10%)</li>
+      <li>Assignment 2 (15%)</li>
+      <li>Assignment 3 (15%)</li>
+    </ul>
+    <br>
+    <li>Final Examination Contribute to <b>60%</b> of the grade.</li>
+  </ul>
+ 
 </p>
 <br>
 
