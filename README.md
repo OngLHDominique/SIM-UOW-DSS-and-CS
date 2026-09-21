@@ -32,7 +32,6 @@ The information provided are based on the modules that I have taken.
       <li>Assignment 2 (15%)</li>
       <li>Assignment 3 (15%)</li>
     </ul>
-    <br>
     <li>Final Examination Contribute to <b>60%</b> of the grade.</li>
   </ul>
  
