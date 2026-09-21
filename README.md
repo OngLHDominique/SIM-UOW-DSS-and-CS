@@ -27,78 +27,94 @@ The information provided are based on the modules that I have taken.
 <p>
   Insert here
 </p>
+<br>
 
 ### MATH255 Mathematics for Computing
 <p>
   Insert here
 </p>
+<br>
 
 ### CSIT121 Object Oriented Design and Programming
 <p>
   Insert here
 </p>
+<br>
 
 ### CSIT128 Introduction to Web Technology
 <p>
   Insert here
 </p>
+<br>
 
 ### CSCI251 Advanced Programming
 <p>
   Insert here
 </p>
+<br>
 
 ### CSCI369 Ethical Hacking
 <p>
   Insert here
 </p>
+<br>
 
 ### CSCI235 Database Systems
 <p>
   Insert here
 </p>
+<br>
 
 ### CSIT302 Cybersecurity
 <p>
   Insert here
 </p>
+<br>
 
 ### CSCI368 Network Security
 <p>
   Insert here
 </p>
+<br>
 
 ### CSIT305 Emerging Information Technology and their Applications
 <p>
   Insert here
 </p>
+<br>
 
 ### CSIT314 Software Development Methodologies
 <p>
   Insert here
 </p>
+<br>
 
 ### CSCI262 System Security
 <p>
   Insert here
 </p>
+<br>
 
 ### CSIT375 Artificial Intelligence and Cybersecurity
 <p>
   Insert here
 </p>
+<br>
 
 ### CSCI361 Cryptography and Secure Applications
 <p>
   Insert here
 </p>
+<br>
 
 ### CSIT328 Web Security
 <p>
   Insert here
 </p>
+<br>
 
 ### CSIT321 Final Year Project
 <p>
   Insert here
 </p>
+<br>
