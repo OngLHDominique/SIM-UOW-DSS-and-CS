@@ -25,6 +25,11 @@ The information provided are based on the modules that I have taken.
 ## More Information about each module
 ### CSCI203 Algorithms and Data Structures
 <p>
+  <b>Subject Description:</b>
+  <p>
+    Approaches to analysing algorithm complexity and implementation efficiency will be introduced; and used to motivate the development of appropriate abstract data types.
+    Students will be taught to recognise the role of abstract data types and algorithms in solving real-world problems; and given the opportunity to implement solutions to such problems.
+  </p>
   <ul>
     <li>Assignments contribute to <b>40%</b> of the grade.</li>
     <ul>
@@ -33,14 +38,37 @@ The information provided are based on the modules that I have taken.
       <li>Assignment 3 (15%)</li>
     </ul>
     <li>Final Examination Contribute to <b>60%</b> of the grade.</li>
+    <li>There is a technical fail requirement on the Final Examination that requires at least a <b>40%</b> in the paper.</li>
   </ul>
- 
 </p>
 <br>
 
 ### MATH255 Mathematics for Computing
 <p>
-  Insert here
+  <b>Subject Description:</b>
+  <p>
+    This subject provides key mathematical and statistical knowledge and skills for students in both computer science and information technology.
+    The subject is split into two strands, namely Discrete Mathematics and Data Analysis.
+    <br>
+    In the discrete mathematics strand students will develop basic skills in propositional logic, predicate logic, formal proof, set theory, graph theory, 
+    as well as the theory of relations and functions, with a focus on skills required for learning computing. Further, students will study elements of pre-calculus and calculus that support the data analysis strand.
+    <br>
+    The data analysis strand focuses on knowledge to support analysis in the IT workplace. It begins with a review of fundamental probability, followed by exploratory data analysis for univariate data, leading
+    into correlation and simple linear regression for bivariate data. Study continues with discrete probability distributions including binomial and Poisson; and continuous probability distributions including the
+    normal and exponential. Final topics include sampling distributions, an introduction to confidence intervals and hypothesis testing for means and proportions. These topics will be taught with appropriate statistical computing software.
+  </p>
+  <ul>
+    <li>Quizzes and Assignments contribute to <b>30%</b> of the grade.</li>
+    <ul>
+      <li>Quiz 1 - Discrete Mathematics (7%)</li>
+      <li>Quiz 2 - Statistics (7%)</li>
+      <li>Assignment 1 - Discrete Mathematics (8%)</li>
+      <li>Assignment 2 - Statistics (8%)</li>
+    </ul>
+    <li>Final Examination Contribute to <b>70%</b> of the grade.</li>
+    <li>There is a technical fail requirement on the Final Examination that requires at least a <b>40%</b> in the paper.</li>
+  </ul>
+  <p><b>*This module has been discountinued and replaced by another module.</b></p>
 </p>
 <br>
 
